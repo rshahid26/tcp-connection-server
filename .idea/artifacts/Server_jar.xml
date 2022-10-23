@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Server_jar</output-path>
+    <root id="archive" name="Server.jar">
+      <element id="module-output" name="Server" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Apache Poi/poi-examples-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Apache Poi/SparseBitSet-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Apache Poi/poi-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Apache Poi/poi-ooxml-lite-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/flatlaf-intellij-themes-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/flatlaf-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Apache Poi/poi-excelant-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Apache Poi/poi-ooxml-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Apache Poi/commons-compress-1.20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Apache Poi/poi-integration-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Apache Poi/poi-scratchpad-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Apache Poi/commons-collections4-4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Apache Poi/xmlbeans-4.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Apache Poi/commons-codec-1.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Apache Poi/poi-ooxml-full-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Apache Poi/curvesapi-1.06.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Apache Poi/commons-math3-3.6.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
